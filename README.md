@@ -1,8 +1,10 @@
 # 期末作业说明
 
 23121413 沈怡均
-UE项目文件Github链接：[23121413\_沈怡均\_游戏音频设计期末作业](https://pan.baidu.com/s/1476yDonPeppfqlvfbgTGmQ?pwd=3uu4)
-视频和图片素材：[23121413\_沈怡均\_游戏音频设计期末作业](https://pan.baidu.com/s/1476yDonPeppfqlvfbgTGmQ?pwd=3uu4) 提取码: 3uu4
+
+UE项目文件Github链接：[GAD_UE_Shenyijun](https://github.com/Julia1413/GAD_Final/tree/master/GAD_UE_Shenyijun)
+
+网盘链接（以防万一）：[23121413\_沈怡均\_游戏音频设计期末作业](https://pan.baidu.com/s/1476yDonPeppfqlvfbgTGmQ?pwd=3uu4) 提取码: 3uu4
 
 
 
