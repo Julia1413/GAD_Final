@@ -11,3 +11,8 @@
 *.pdb filter=lfs diff=lfs merge=lfs -text
 *.chm filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 0c6085bb708b285cd3e366cf89160caff0f02c5d
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
