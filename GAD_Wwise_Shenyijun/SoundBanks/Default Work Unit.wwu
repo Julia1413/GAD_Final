@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{124C217F-BC4B-41F2-B812-4D35ACED5F20}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{124C217F-BC4B-41F2-B812-4D35ACED5F20}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Play_OBJ_Campfire_Burn" ID="{F810585F-AAF0-4A0C-A235-FF7FF3EE6D2B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_OBJ_Campfire_Burn" ID="{7D88849E-ACB3-4913-BC00-72C2480F70ED}" WorkUnitID="{2C0E8542-2117-40B5-8AA6-1A932043A360}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

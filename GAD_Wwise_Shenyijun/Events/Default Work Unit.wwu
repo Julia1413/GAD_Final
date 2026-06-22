@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2C0E8542-2117-40B5-8AA6-1A932043A360}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{2C0E8542-2117-40B5-8AA6-1A932043A360}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_OBJ_Campfire_Burn" ID="{7D88849E-ACB3-4913-BC00-72C2480F70ED}">
+					<ChildrenList>
+						<Action Name="" ID="{A45CD2FF-0A9A-45E2-912F-EC46E55E6044}" ShortID="633482497">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_Campfire_Burn" ID="{3FA25F66-D577-4B2F-864E-AF5FBC210225}" WorkUnitID="{64DB309B-A2C8-401E-A3E8-B00C7A58AFB7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN" ID="{88B45EE8-8542-43F1-8D1B-DD1806ED218F}">
+					<ChildrenList>
+						<Action Name="" ID="{7BBF4093-3213-4AFE-A120-AC919120B16D}" ShortID="462870974">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{B2C11033-6FEC-4185-A8DB-B387DEE05D2C}" WorkUnitID="{F0E318E0-B8F9-4C4C-BB4A-36BAA39AC0E3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Foley_FS_Run" ID="{971DA022-6A4C-476F-98BC-91737E005071}">
+					<ChildrenList>
+						<Action Name="" ID="{A4929DFA-A548-45A9-AB8D-20E972A6BADC}" ShortID="977609622">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foley_FS_Run" ID="{E48BD71C-21E8-4BFF-A225-67053D73A553}" WorkUnitID="{B78504F3-0BDE-4979-8E87-99F7541F5B13}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_VO_Female_WwiseSpatialAudio" ID="{2D3861E9-2B98-4272-903B-92E534B84644}">
+					<ChildrenList>
+						<Action Name="" ID="{537637AA-16D8-451A-B76F-64AEC44BCD79}" ShortID="954582371">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="VO_Female_WwiseSpatialAudio" ID="{9132FF40-7881-4A40-B7E1-72BFD375332C}" WorkUnitID="{AC74E423-649B-4D68-9F7A-B49875CDF0E3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

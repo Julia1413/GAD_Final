@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{658FD025-60B6-41E2-BEA5-83C2CC2A050A}" SchemaVersion="123">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{658FD025-60B6-41E2-BEA5-83C2CC2A050A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="ShoeType" ID="{868EF4C1-5392-4334-B478-18B051A58B4B}">
+					<ChildrenList>
+						<Switch Name="HighHeel" ID="{B11597B8-A5DC-44F7-B197-CA8C84762E93}"/>
+						<Switch Name="Sneaker" ID="{06A9C24E-0D2D-4301-A382-8E2936F8D5DD}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Material" ID="{A7C4E4B4-705F-4B4C-A467-56B05F6BF00F}">
+					<ChildrenList>
+						<Switch Name="Dirt" ID="{FF381247-6274-43AF-A883-85B9BFE0856F}"/>
+						<Switch Name="Grass" ID="{6D48D22C-6FC5-4364-8BBB-DC7881561525}"/>
+						<Switch Name="Rock" ID="{84CC330D-65E0-4CD3-8DC2-64BABF03AFEB}"/>
+						<Switch Name="Wood" ID="{57DE19DC-3AC4-4766-8A92-82D8174E9D10}"/>
+						<Switch Name="WaterDeep" ID="{7F7343B3-2D68-4FA2-8C6E-9F6980327540}"/>
+						<Switch Name="WaterMiddle" ID="{CA1A3B33-7CF3-4F7B-9B6D-AAEEAB190F2A}"/>
+						<Switch Name="WaterShallow" ID="{E047C029-9F19-4F14-8707-3847523DB0C7}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
