@@ -12,7 +12,10 @@ Wwise项目文件Github链接：[GAD_Wwise_Shenyijun](https://github.com/Julia14
 
 
 
-作业演示视频：[演示视频](https://pan.baidu.com/s/1VMTIMItw3gnrvxACGkZk7g?pwd=a1tv)
+作业演示视频：[演示视频网盘在线预览](https://pan.baidu.com/s/1VMTIMItw3gnrvxACGkZk7g?pwd=a1tv)
+
+
+[演示视频Github](https://github.com/Julia1413/GAD_Final/blob/master/Img_Video/qimo_Video/GAD_Video.mp4)
 
 ## 一、作品概述
 
